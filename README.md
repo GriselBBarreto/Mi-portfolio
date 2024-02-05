@@ -9,7 +9,7 @@ En dicha base, se efectuaron diversas consultas aplicando todo lo aprendido.
 * [Gmail](griselbbarreto@gmail.com)
 
 ## Acceso directo
-- [EnlaceGitHubPages](EnlaceGitHubPages)
+- [[EnlaceGitHubPages](https://griselbbarreto.github.io/Mi-portfolio-SQL/)]([EnlaceGitHubPages](https://griselbbarreto.github.io/Mi-portfolio-SQL/))
 
 ## Instalación
 No requiere instalación. Sólo abra la carpeta y haga clic sobre el archivo.
