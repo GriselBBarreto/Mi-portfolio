@@ -8,6 +8,9 @@ En dicha base, se efectuaron diversas consultas aplicando todo lo aprendido.
 * [Linkedin](www.linkedin.com/in/lic-grisel-belén-barreto)
 * [Gmail](griselbbarreto@gmail.com)
 
+## Acceso directo
+- [EnlaceGitHubPages](EnlaceGitHubPages)
+
 ## Instalación
 No requiere instalación. Sólo abra la carpeta y haga clic sobre el archivo.
 
