@@ -4,7 +4,7 @@ Se trata de la creación de una base de datos de una empresa ficticia que se ded
 Se efectuaron diversas consultas a dicha base, aplicando diversas funciones.
 
 ## Autor
-### Grisel Barreto ###
+***Grisel Barreto***
 * [Linkedin](www.linkedin.com/in/lic-grisel-belén-barreto)
 * [Gmail](griselbbarreto@gmail.com)
 
