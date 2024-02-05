@@ -9,6 +9,6 @@ Se efectuaron diversas consultas a dicha base, aplicando diversas funciones.
 * [Gmail](griselbbarreto@gmail.com)
 
 ## Instalación
-No requiere. Sólo abra la carpeta y haga clic sobre el archivo.
+No requiere instalación. Sólo abra la carpeta y haga clic sobre el archivo.
 
 
