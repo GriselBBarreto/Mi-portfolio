@@ -1,7 +1,7 @@
 ## Descripción
-En este proyecto se puso en practica los conocimientos adquirido sobre Lenguaje SQL.
+En este proyecto se puso en practica los conocimientos adquiridos sobre Lenguaje SQL.
 Se trata de la creación de una base de datos de una empresa ficticia que se dedica a la comercialización de plantas y elementos de jardineria.
-Se efectuaron diversas consultas a dicha base, aplicando diversas funciones.
+En dicha base, se efectuaron diversas consultas aplicando todo lo aprendido.
 
 ## Autor
 ***Grisel Barreto***
