@@ -3,6 +3,13 @@ En este proyecto se puso en practica los conocimientos adquiridos sobre Lenguaje
 Se trata de la creación de una base de datos de una empresa ficticia que se dedica a la comercialización de plantas y elementos de jardinería.
 En dicha base, se efectuaron diversas consultas aplicando todo lo aprendido.
 
+## Herramientas
+* MySQL
+
+## Habilidades
+* Análisis de datos
+* Limpieza de datos
+
 ## Autor
 ***Grisel Barreto***
 * [Linkedin](www.linkedin.com/in/lic-grisel-belén-barreto)
